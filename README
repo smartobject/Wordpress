@@ -1,0 +1,17 @@
+Wordpress Child Theme Code for 
+Shelton Research Group
+This repository follows the normal Wordpress directory structure:
+Wordpress
+   wp-content
+      Themes
+         ThemeNames, etc. 
+
+
+Parent Theme              Changes
+  - Magazine Basic
+                          Allow for a header background image
+                          Allow Taller header / logo
+                          Allow for optional page-by-page or post-by-post comments
+                          If comments are not allowed, just be quiet, dont say "Comments are not allowed"
+                          Allow pages that contain posts of certain categories
+
